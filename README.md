@@ -39,6 +39,6 @@ Puedes contactarme por correo electrónico en [achaval353@gmail.com](mailto:acha
 - 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades técnicas.
 - 👯 Estoy buscando colaborar en proyectos innovadores.
 - 💬 Pregúntame acerca de desarrollo web, educación técnica, ¡o cualquier cosa que te apasione!
-- 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/achavalnahuel/).
+- 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/nahuel-achaval-907612271/).
 
 ¡Gracias por visitar mi perfil!
